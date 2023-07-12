@@ -31,5 +31,5 @@ My name is Arthur, I'm from Brazil. I love programming, gaming and hanging out!
   <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
-![snake gif](https://github.com/Arthur-DBorghi/Arthur-DBorghi/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Arthur-DBorghi/Arthur-DBorghi/blob/output/github-contribution-grid-snake.svg)
 
