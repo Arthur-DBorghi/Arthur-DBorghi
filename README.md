@@ -1,12 +1,11 @@
-#Hello World!
+#  Hello World!
 
-My name is Arthur, I'm from Brazil. I love programming, gaming and hanging out!
+### My name is Arthur, I'm from Brazil. I love programming, gaming and hanging out!
 
 - 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning Data Analysis with R
+- 📖 I’m currently learning Data Analysis with R
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/arthurdborghi/" target="_blank">LinkedIn</a> (it's in portuguese, but soon, I'll make a version in English too!)
-- ⚡ Fun fact: I love reptiles
-
+- ⚡ Fun fact: I love reptiles 🐊
 ##
 
 <div align="center"><br>
@@ -30,6 +29,3 @@ My name is Arthur, I'm from Brazil. I love programming, gaming and hanging out!
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
-
-![snake animation](https://github.com/Arthur-DBorghi/Arthur-DBorghi/blob/output/github-contribution-grid-snake.svg)
-
