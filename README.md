@@ -19,6 +19,6 @@ Currently doing an MBA in Information Security, so expect a few security side pr
 JavaScript · Python · PowerShell · Microsoft Graph · Cloudflare Workers · Playwright · GitHub Actions
 
 ## Off the keyboard
-🐊 reptile fan · 🎮 gamer · 📷 wannabe photographer · 🖨️ eyeing a 3D printer to print things I design in code · Wannabe photographer 📷
+🐊 reptile fan · 🎮 gamer · 📷 wannabe photographer · 🖨️ eyeing a 3D printer to print things I design in code
 
 📫 [LinkedIn](https://www.linkedin.com/in/arthurdborghi/) · [arthurborghi.com.br](https://arthurborghi.com.br)
