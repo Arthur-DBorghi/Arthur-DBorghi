@@ -1,30 +1,24 @@
-# Hi, I'm Arthur 👋
+# Hey, I'm Arthur 👋
 
-IT infrastructure assistant and full stack developer from São Paulo, Brazil.
-Day to day I take care of a Microsoft 365 environment and automate the repetitive
-parts with Python (Microsoft Graph) and Power Automate. On the side, I build small,
-tested, zero-cost web products on Cloudflare. Currently doing an MBA in Information Security.
+By day I keep a Microsoft 365 environment running and automate the boring parts
+with Python. By night (well, about 4 hours a week) I build small web things on
+Cloudflare that cost nothing to host and have more tests than they probably need.
+Currently doing an MBA in Information Security, so expect a few security side projects.
 
-## Projects
-- **[LandingPage](https://github.com/Arthur-DBorghi/LandingPage)**: landing pages and
-  5-page sites for small local businesses. Plain HTML/CSS/JS on Cloudflare, a browser-based
-  sales panel that generates each client's site, and automated tests (Playwright, axe,
-  Lighthouse CI) on every push. Live at [arthurborghi.com.br](https://arthurborghi.com.br).
-- **Hashscan**: file scanner in Python (SHA-256 against MalwareBazaar, YARA-X rules and
-  heuristics), with a Windows agent and a static dashboard on Cloudflare.
-  [Live dashboard with a sample report](https://hashscan-painel.arthur-defborghi.workers.dev/#exemplo).
-  Source code going public soon.
-- **Aporte**: personal investment tracker, an installable offline-first PWA where the data
-  stays on the device. In progress.
+## Things I've built
+- **[LandingPage](https://github.com/Arthur-DBorghi/LandingPage)**: sites for small
+  local businesses, plus a sales panel that builds the client's site while we talk.
+  Live at [arthurborghi.com.br](https://arthurborghi.com.br).
+- **Hashscan**: a file scanner (hashes, YARA rules, heuristics) with a Windows agent.
+  [Try the dashboard with a sample report](https://hashscan-painel.arthur-defborghi.workers.dev/#exemplo).
+  Code going public soon.
+- **Aporte**: my own investment tracker, because spreadsheets were getting out of hand.
+  Work in progress.
 
-## Stack
-JavaScript · HTML/CSS · Node.js · Python · PowerShell · Microsoft Graph · Microsoft 365 ·
-Cloudflare Workers · Playwright · GitHub Actions
+## Usually working with
+JavaScript · Python · PowerShell · Microsoft Graph · Cloudflare Workers · Playwright · GitHub Actions
 
-## Education
-- Technologist in Systems Analysis and Development, IFSP (2025)
-- Postgraduate degree in Full Stack Development, Descomplica
-- MBA in Information Security, Descomplica (in progress)
+## Off the keyboard
+🐊 reptile fan · 🎮 gamer · 📷 wannabe photographer · 🖨️ eyeing a 3D printer to print things I design in code
 
-## Contact
-[LinkedIn](https://www.linkedin.com/in/arthurdborghi/) · [arthurborghi.com.br](https://arthurborghi.com.br)
+📫 [LinkedIn](https://www.linkedin.com/in/arthurdborghi/) · [arthurborghi.com.br](https://arthurborghi.com.br)
