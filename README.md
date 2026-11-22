@@ -1,27 +1,30 @@
-#  Hello World!
+# Hi, I'm Arthur 👋
 
-### My name is Arthur, I'm from Brazil. I love programming, gaming and hanging out!
+IT infrastructure assistant and full stack developer from São Paulo, Brazil.
+Day to day I take care of a Microsoft 365 environment and automate the repetitive
+parts with Python (Microsoft Graph) and Power Automate. On the side, I build small,
+tested, zero-cost web products on Cloudflare. Currently doing an MBA in Information Security.
 
-- 🔭 I’m currently looking for a job
-- 📖 I’m currently learning Data Analysis with R
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/arthurdborghi/" target="_blank">LinkedIn</a> (it's in portuguese, but soon, I'll make a version in English too!)
-- ⚡ Fun fact: I love reptiles 🐊
-##
+## Projects
+- **[LandingPage](https://github.com/Arthur-DBorghi/LandingPage)**: landing pages and
+  5-page sites for small local businesses. Plain HTML/CSS/JS on Cloudflare, a browser-based
+  sales panel that generates each client's site, and automated tests (Playwright, axe,
+  Lighthouse CI) on every push. Live at [arthurborghi.com.br](https://arthurborghi.com.br).
+- **Hashscan**: file scanner in Python (SHA-256 against MalwareBazaar, YARA-X rules and
+  heuristics), with a Windows agent and a static dashboard on Cloudflare.
+  [Live dashboard with a sample report](https://hashscan-painel.arthur-defborghi.workers.dev/#exemplo).
+  Source code going public soon.
+- **Aporte**: personal investment tracker, an installable offline-first PWA where the data
+  stays on the device. In progress.
 
-<br>
-<table><tr>
-  <td><img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></td>
-  <td><img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></td>
-  <td><img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
-  <td><img alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></td>
-  <td><img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></td>
-  <td><img alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></td>
-  <td><img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></td>
-  <td><img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
-  <td><img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></td>
-  <td><img alt="Dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></td>
-  <td><img alt="Flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></td>
-  <td><img alt="Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></td>
-  <td><img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></td>
-  <td><img alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></td>
-</tr></table>
+## Stack
+JavaScript · HTML/CSS · Node.js · Python · PowerShell · Microsoft Graph · Microsoft 365 ·
+Cloudflare Workers · Playwright · GitHub Actions
+
+## Education
+- Technologist in Systems Analysis and Development, IFSP (2025)
+- Postgraduate degree in Full Stack Development, Descomplica
+- MBA in Information Security, Descomplica (in progress)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/arthurdborghi/) · [arthurborghi.com.br](https://arthurborghi.com.br)
